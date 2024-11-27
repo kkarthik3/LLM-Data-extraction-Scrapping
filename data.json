@@ -1,1 +1,2070 @@
-[]
+[
+    {
+        "business_name": "Dplus Car Care",
+        "location_details": {
+            "full_address": "CHIL SEZ IT Park, Saravanampatty, Coimbatore - 035",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "postal_code": "641035",
+            "geo_coordinates": "10.901112, 76.959953"
+        },
+        "contact_information": {
+            "primary_phone": "96 5 97 88888",
+            "secondary_phone": "",
+            "email": "info@dplus.co.in"
+        },
+        "services": {
+            "primary_services": [
+                "Car Painting",
+                "Dent/Scratch Removal"
+            ],
+            "secondary_services": [
+                "Car Washing",
+                "Interior Detailing",
+                "Exterior Detailing"
+            ],
+            "specialized_services": [
+                "Car Teflon Coating",
+                "Wax Polishing",
+                "Car Alteration",
+                "Car Modification",
+                "Car General Service",
+                "Mechanic Works",
+                "Car Seat Cover",
+                "Accessories and Products"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "Monday to Saturday: 9:00 AM to 7:00 PM",
+            "days_of_operation": "Monday to Saturday"
+        },
+        "ratings_and_reviews": {
+            "average_rating": 4.8,
+            "total_reviews": 276
+        },
+        "unique_selling_propositions": [
+            "Professional Car Washing, Painting and Detailing Services",
+            "Team of Experienced Technicians",
+            "Excellent Customer Service"
+        ],
+        "additional_notes": "Free pick-up and drop-off service available for car service and repair.",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 0
+        }
+    },
+    {
+        "business_name": "Expert Car Repair and Maintenance Services",
+        "location_details": null,
+        "contact_information": null,
+        "services": {
+            "primary_services": [
+                "Routine Maintenance",
+                "Quality Repairs",
+                "Complex Repairs"
+            ],
+            "secondary_services": [],
+            "specialized_services": []
+        },
+        "operational_details": null,
+        "ratings_and_reviews": null,
+        "unique_selling_propositions": [
+            "Your trusted partner for exceptional car care services."
+        ],
+        "additional_notes": [
+            "Customer Satisfaction",
+            "Experienced Technicians at Your Service."
+        ],
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 1
+        }
+    },
+    {
+        "business_name": "Auto Mech",
+        "location_details": {
+            "full_address": null,
+            "city": "COIMBATORE",
+            "state": null,
+            "postal_code": null,
+            "geo_coordinates": null
+        },
+        "contact_information": {
+            "primary_phone": "+91-9629111016",
+            "secondary_phone": null,
+            "email": null,
+            "website": null
+        },
+        "services": {
+            "primary_services": [
+                "CHOOSE RIGHT CARS"
+            ],
+            "secondary_services": [
+                "Stylish Design",
+                "Best Services",
+                "World Class Travels"
+            ],
+            "specialized_services": null
+        },
+        "operational_details": {
+            "working_hours": null,
+            "days_of_operation": null,
+            "established_year": 2019
+        },
+        "ratings_and_reviews": {
+            "average_rating": null,
+            "total_reviews": null,
+            "platform_sources": null
+        },
+        "unique_selling_propositions": [
+            "Stylish Designed Car",
+            "Service at your doorstep",
+            "World Class Travels"
+        ],
+        "additional_notes": "Discover a new dream Cars with a handy & stylish design of your choice\nContact Us",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 2
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 3
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 5
+        }
+    },
+    {
+        "business_name": "KSR AUTO WORX",
+        "location_details": {
+            "full_address": "22/8,L&T BYPASS,OPP TO VIJAYA VIDYALAYA SCHOOL, ODDARPALAYAM, ONDIPUDUR (PO) COIMBATORE-641016",
+            "city": "COIMBATORE",
+            "state": "Tamil Nadu",
+            "postal_code": "641016",
+            "geo_coordinates": null
+        },
+        "contact_information": {
+            "primary_phone": "9169166001",
+            "secondary_phone": null,
+            "email": "ksrautoworxcbe@gmail.com",
+            "website": "www.ksrtradingcompany.com"
+        },
+        "services": {
+            "primary_services": null,
+            "secondary_services": null,
+            "specialized_services": null
+        },
+        "operational_details": {
+            "working_hours": null,
+            "days_of_operation": null,
+            "established_year": null
+        },
+        "ratings_and_reviews": {
+            "average_rating": null,
+            "total_reviews": null,
+            "platform_sources": null
+        },
+        "unique_selling_propositions": null,
+        "additional_notes": "Svg Vector Icons : http://www.onlinewebfonts.com/icon Download Pdf Svg Vector Icons : http://www.onlinewebfonts.com/icon Add to Contact",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 6
+        }
+    },
+    {
+        "business_name": "Gypsy Autos",
+        "location_details": {
+            "full_address": "3, Nallampalayam Main Road, Nallampalayam, Near Amirta School, Coimbatore, Tamil Nadu, India - 641006",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "postal_code": "641006",
+            "geo_coordinates": null
+        },
+        "contact_information": {
+            "primary_phone": "+91-9943106847",
+            "secondary_phone": "8940364542, 8675537090",
+            "email": null,
+            "website": null
+        },
+        "services": {
+            "primary_services": "All Cars Mechanical Works, Tinkering & Painting",
+            "secondary_services": null,
+            "specialized_services": null
+        },
+        "operational_details": {
+            "working_hours": "Monday 09:00 AM - 08:00 PM",
+            "days_of_operation": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "established_year": null
+        },
+        "ratings_and_reviews": {
+            "average_rating": "0/5",
+            "total_reviews": "0",
+            "platform_sources": null
+        },
+        "unique_selling_propositions": null,
+        "additional_notes": "This listing has been expired !!.. Please renew this listing",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 7
+        }
+    },
+    {
+        "business_name": "GoMechanic",
+        "location_details": {
+            "full_address": "",
+            "city": "Mumbai",
+            "state": "",
+            "postal_code": "",
+            "geo_coordinates": ""
+        },
+        "contact_information": {
+            "primary_phone": "",
+            "secondary_phone": "",
+            "email": "",
+            "website": ""
+        },
+        "services": {
+            "primary_services": [],
+            "secondary_services": [],
+            "specialized_services": []
+        },
+        "operational_details": {
+            "working_hours": "",
+            "days_of_operation": ""
+        },
+        "ratings_and_reviews": {
+            "average_rating": "4.7",
+            "total_reviews": "850+"
+        },
+        "unique_selling_propositions": [],
+        "additional_notes": "",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 8
+        }
+    },
+    {
+        "business_name": "Kings Car Care",
+        "location_details": {
+            "full_address": "#1, Thayirittery Road (North), Rathinapuri Post, kannappa Nagar, Nallampalayam Road, Coimbatore, Tamil Nadu, India - 641027",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "postal_code": "641027",
+            "geo_coordinates": null
+        },
+        "contact_information": {
+            "primary_phone": "+91-9842209496",
+            "secondary_phone": "9443759777",
+            "email": null,
+            "website": null
+        },
+        "services": {
+            "primary_services": [
+                "Car repairs",
+                "Mechanical works",
+                "Tinkering and painting",
+                "Electrical works",
+                "Car polishing",
+                "A/c works"
+            ],
+            "secondary_services": [],
+            "specialized_services": []
+        },
+        "operational_details": {
+            "working_hours": {
+                "Monday": "09:00 AM - 08:00 PM",
+                "Tuesday": "09:00 AM - 08:00 PM",
+                "Wednesday": "09:00 AM - 08:00 PM",
+                "Thursday": "09:00 AM - 08:00 PM",
+                "Friday": "09:00 AM - 08:00 PM",
+                "Saturday": "09:00 AM - 08:00 PM",
+                "Sunday": "Closed - Closed"
+            },
+            "days_of_operation": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "established_year": null
+        },
+        "ratings_and_reviews": {
+            "average_rating": 0,
+            "total_reviews": 0,
+            "platform_sources": []
+        },
+        "unique_selling_propositions": [],
+        "additional_notes": null,
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 9
+        }
+    },
+    {
+        "business_name": "MD CAR CARE",
+        "location_details": {
+            "full_address": "No: 18, Saravana Nagar, Near Cheran Nagar, Kavundampalayam, Coimbatore 641030",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "postal_code": "641030",
+            "geo_coordinates": null
+        },
+        "contact_information": {
+            "primary_phone": "+91 96290 52227",
+            "secondary_phone": "+91 96292 12227",
+            "email": "info@mdcarcare.in",
+            "website": null
+        },
+        "services": {
+            "primary_services": [
+                "Car Washing",
+                "Mechanical Work",
+                "Brakes, Steering And Suspension",
+                "Oil Service"
+            ],
+            "secondary_services": [
+                "Tinkering & Painting",
+                "Interior Cleaning",
+                "Wheel Alignment",
+                "Body Shining",
+                "Engine Scanning",
+                "Air Conditioning"
+            ],
+            "specialized_services": null
+        },
+        "operational_details": {
+            "working_hours": "Mon - Sat: 9:00 AM To 6.00 PM",
+            "days_of_operation": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "established_year": null
+        },
+        "ratings_and_reviews": {
+            "average_rating": null,
+            "total_reviews": null,
+            "platform_sources": null
+        },
+        "unique_selling_propositions": [
+            "Highly qualified and certified workshop",
+            "Free pick-up and drop-in facilities in & around 15-20 kms"
+        ],
+        "additional_notes": null,
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 10
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 11
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 12
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 13
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 14
+        }
+    },
+    {
+        "business_name": "AUTOMAX CAR SERVICE",
+        "location_details": {
+            "full_address": "Site No 41, Guruswamy Nagar Opposite EB Power House Codissia Road, Coimbatore- 641004",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "postal_code": "641004",
+            "geo_coordinates": null
+        },
+        "contact_information": {
+            "primary_phone": "+91 75400 51555",
+            "secondary_phone": null,
+            "email": "automaxcbe@gmail.com",
+            "website": null
+        },
+        "services": {
+            "primary_services": [
+                "Car Service",
+                "Maintenance",
+                "Repair"
+            ],
+            "secondary_services": [
+                "Mechanical Services",
+                "Body Shop",
+                "Car Detailing",
+                "Car Accessories"
+            ],
+            "specialized_services": null
+        },
+        "operational_details": {
+            "working_hours": "Mon - Sat: 8.30am To 9.00pm",
+            "days_of_operation": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "established_year": null
+        },
+        "ratings_and_reviews": {
+            "average_rating": null,
+            "total_reviews": null,
+            "platform_sources": null
+        },
+        "unique_selling_propositions": [
+            "Professional Car Service And Repair",
+            "Multi-brand workshop",
+            "Expert Technicians",
+            "Accurate Diagnosis & Repair",
+            "Quality Workmanships"
+        ],
+        "additional_notes": null,
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 15
+        }
+    },
+    {
+        "business_name": "Find Mechanic",
+        "location_details": {
+            "full_address": "",
+            "city": "",
+            "state": "",
+            "postal_code": "",
+            "geo_coordinates": {}
+        },
+        "contact_information": {
+            "primary_phone": "",
+            "secondary_phone": "",
+            "email": "",
+            "website": ""
+        },
+        "services": {
+            "primary_services": [
+                "Games",
+                "Apps",
+                "Movies",
+                "Books",
+                "Kids"
+            ],
+            "secondary_services": [],
+            "specialized_services": []
+        },
+        "operational_details": {
+            "working_hours": "",
+            "days_of_operation": []
+        },
+        "ratings_and_reviews": {
+            "average_rating": 0,
+            "total_reviews": 0,
+            "platform_sources": []
+        },
+        "unique_selling_propositions": [],
+        "additional_notes": "",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 16
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 17
+        }
+    },
+    {
+        "business_name": "GoMechanic",
+        "location_details": {
+            "full_address": "7th Floor, Tower A, Spaze iTech Park, Sohna - Gurgaon Rd, Block S, Sector 49, Gurugram, Haryana 122018",
+            "city": "Gurugram",
+            "state": "Haryana",
+            "postal_code": "122018",
+            "geo_coordinates": "28.4595, 77.0266"
+        },
+        "contact_information": {
+            "primary_phone": "9388893888",
+            "secondary_phone": "",
+            "email": "info@goMechanic.in",
+            "website": "https://www.goMechanic.in/"
+        },
+        "services": {
+            "primary_services": [
+                "Car Service & Repair",
+                "AC Service & Repair",
+                "Batteries",
+                "Tyres & Wheel Care",
+                "Denting & Painting",
+                "Detailing Services",
+                "Car Spa & Cleaning",
+                "Car Inspections",
+                "Windshields & Lights",
+                "Suspension & Fitments",
+                "Clutch & Body Parts",
+                "Insurance Claims",
+                "SOS Service"
+            ],
+            "secondary_services": [
+                "Engine Oil Replacement",
+                "Air Filter Replacement",
+                "Oil Filter Replacement",
+                "Brake Pad Servicing",
+                "Spark Plug Service",
+                "Coolant Top-up"
+            ],
+            "specialized_services": [
+                "Front Brake Pads",
+                "Rear Brake Shoes",
+                "Basic Car Service",
+                "Standard Car Service",
+                "Comprehensive Car Service",
+                "AC Filter Replacement",
+                "Fuel Filter Checking",
+                "Car Scanning",
+                "Opening & Fitting of Front Brake Pads",
+                "Front Brake Pads Replacement",
+                "Inspection of Front Brake Calipers",
+                "Front Brake Disc Cleaning",
+                "Opening & Fitting of Rear Brake Pads",
+                "Rear Brake Shoes Replacement",
+                "Inspection of Rear Brake Calipers",
+                "Rear Brake Disc Cleaning",
+                "Front Brake Disc Replacement",
+                "Opening & Fitting of Front Brake Disc",
+                "Caliper Pin Replacement",
+                "Opening & Fitting of Caliper Pin",
+                "Disc Turning",
+                "Handbrake Wire Replacement",
+                "Brake Drums Turning",
+                "Wheel Cylinder Replacement"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "7:00AM - 9:00PM(IST)",
+            "days_of_operation": "Monday - Sunday"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "4.7",
+            "total_reviews": "850+"
+        },
+        "unique_selling_propositions": [
+            "3 Million+ Cars Serviced",
+            "15 Lacs+ Happy Customers",
+            "Free Pickup & Drop",
+            "Advanced Machinery & Trained Professionals",
+            "Genuine OEM/OES Spare Parts",
+            "Customer Protection with Warranty on Parts & Services",
+            "Dedicated Service Buddy for Real-Time Updates",
+            "Customer-Centric Services with Upfront Pricing",
+            "Multiple Payment Options: Paytm, UPI, Cash on Delivery, Net Banking, Credit and Debit Cards"
+        ],
+        "additional_notes": "Experience the best in car servicing at GoMechanic. Book your service on our website or download the GoMechanic App.",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 18
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 19
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 20
+        }
+    },
+    {
+        "business_name": "IS AUTO CARE",
+        "location_details": {
+            "full_address": "TO, Edayarpalayam - Koundampalayam Rd, opp. to BANK OF BARODA ATM, VOC Nagar, TVS Nagar, Coimbatore, Tamil Nadu 641025.",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "postal_code": "641025"
+        },
+        "contact_information": {
+            "primary_phone": "9159550323",
+            "secondary_phone": "8248488422",
+            "email": "isautocare18@gmail.com"
+        },
+        "services": {
+            "primary_services": [
+                "car service",
+                "painting center"
+            ],
+            "secondary_services": [
+                "oil changes",
+                "tire rotations",
+                "complex engine repairs"
+            ],
+            "specialized_services": [
+                "professional painting services"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "",
+            "days_of_operation": "",
+            "established_year": 2022
+        },
+        "additional_notes": "More than a service center, we're your vehicle's trusted caretaker, committed to excellence on every kilo meter.",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 21
+        }
+    },
+    {
+        "business_name": "GoMechanic",
+        "location_details": {
+            "full_address": "",
+            "city": "Mumbai",
+            "state": "",
+            "postal_code": "",
+            "geo_coordinates": ""
+        },
+        "contact_information": {
+            "primary_phone": "",
+            "secondary_phone": "",
+            "email": "",
+            "website": ""
+        },
+        "services": {
+            "primary_services": [],
+            "secondary_services": [],
+            "specialized_services": []
+        },
+        "operational_details": {
+            "working_hours": "",
+            "days_of_operation": ""
+        },
+        "ratings_and_reviews": {
+            "average_rating": "4.7",
+            "total_reviews": "850+"
+        },
+        "unique_selling_propositions": [],
+        "additional_notes": "",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 22
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 23
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 24
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 25
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 26
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 27
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 28
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 29
+        }
+    },
+    {
+        "business_name": "CarBike",
+        "location_details": {
+            "full_address": "Select Your Car Details",
+            "city": "Chennai"
+        },
+        "contact_information": {
+            "primary_phone": null,
+            "secondary_phone": null,
+            "email": null,
+            "website": null
+        },
+        "services": {
+            "primary_services": [
+                "Periodic Maintenance Service",
+                "Dent Restoration",
+                "Monsoon Protect"
+            ],
+            "secondary_services": [],
+            "specialized_services": []
+        },
+        "operational_details": {
+            "working_hours": null,
+            "days_of_operation": null,
+            "established_year": null
+        },
+        "ratings_and_reviews": {
+            "average_rating": null,
+            "total_reviews": null,
+            "platform_sources": []
+        },
+        "unique_selling_propositions": [],
+        "additional_notes": "25 LAKH+ MULTI BRAND VEHICLES SERVICED",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 30
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 31
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String",
+                "String"
+            ],
+            "secondary_services": [
+                "String",
+                "String"
+            ],
+            "specialized_services": [
+                "String",
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String",
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String",
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String",
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 32
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 33
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 34
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 35
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Number",
+                "longitude": "Number"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Number"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Number",
+            "total_reviews": "Number",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 36
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 37
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 38
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 40
+        }
+    },
+    {
+        "business_name": "String",
+        "location_details": {
+            "full_address": "String",
+            "city": "String",
+            "state": "String",
+            "postal_code": "String",
+            "geo_coordinates": {
+                "latitude": "Float",
+                "longitude": "Float"
+            }
+        },
+        "contact_information": {
+            "primary_phone": "String",
+            "secondary_phone": "String",
+            "email": "String",
+            "website": "String"
+        },
+        "services": {
+            "primary_services": [
+                "String"
+            ],
+            "secondary_services": [
+                "String"
+            ],
+            "specialized_services": [
+                "String"
+            ]
+        },
+        "operational_details": {
+            "working_hours": "String",
+            "days_of_operation": [
+                "String"
+            ],
+            "established_year": "Integer"
+        },
+        "ratings_and_reviews": {
+            "average_rating": "Float",
+            "total_reviews": "Integer",
+            "platform_sources": [
+                "String"
+            ]
+        },
+        "unique_selling_propositions": [
+            "String"
+        ],
+        "additional_notes": "String",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 41
+        }
+    },
+    {
+        "business_name": "5K Car Care",
+        "location_details": {
+            "full_address": "15/538 Near annapoorna hotel, Near north coimbatore Flyover, Metupalyam Road, coimbatore, Tamil Nadu 641043",
+            "city": "coimbatore",
+            "state": "Tamil Nadu",
+            "postal_code": "641043"
+        },
+        "contact_information": {
+            "primary_phone": "+91 70944 40550",
+            "secondary_phone": "+91 70944 40551",
+            "email": "5knetworkvadakovai@gmail.com"
+        },
+        "services": {
+            "primary_services": [
+                "Car Wash",
+                "Teflon Coating",
+                "Interior Cleaning & Enrichment",
+                "Seat Covers & Floor Matts",
+                "Car Sun Control Film Packages",
+                "Car Painting Dent Removal",
+                "Ceramic Coating"
+            ],
+            "secondary_services": [],
+            "specialized_services": []
+        },
+        "operational_details": {
+            "working_hours": "",
+            "days_of_operation": ""
+        },
+        "ratings_and_reviews": {
+            "average_rating": "",
+            "total_reviews": "",
+            "platform_sources": []
+        },
+        "unique_selling_propositions": [
+            "IKON of the Coimbatore City 2019 for Excellence in Car Service and Car Detailing",
+            "Accredited by ISO 9001:2015 for Quality Management"
+        ],
+        "additional_notes": "We have a customer base of over 400000 people.",
+        "metadata": {
+            "source": "scraped_2511.csv",
+            "row": 42
+        }
+    }
+]
